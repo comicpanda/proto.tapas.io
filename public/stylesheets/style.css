@@ -15,7 +15,7 @@ body {
   background-color: #262636;
   width: 100%;
   color: white;
-  z-index: 1; }
+  z-index: 11; }
   .g-header .screen-name {
     text-align: center;
     width: 100%;
@@ -62,30 +62,35 @@ body {
 
 .section {
   background-color: #F2F2F2; }
-  .section .header {
+  .section .s-header {
     font-weight: 700;
     margin-bottom: 0;
-    padding: 10px;
+    padding: 16px;
     font-size: 24px;
     background-color: white;
-    border-bottom: 1px solid #e6ecf0; }
+    border-bottom: 1px solid #e6ecf0;
+    position: sticky;
+    top: 50px;
+    z-index: 99; }
 
 .m {
   background-color: white;
   color: #262636;
-  margin: 10px 0; }
-  .m .header .title {
-    font-size: 20px;
-    margin: 0; }
-  .m .header .card-label {
-    font-weight: 500;
-    font-size: 12px;
-    color: #868696;
-    margin-bottom: 5px;
-    display: flex;
-    justify-content: space-between; }
-    .m .header .card-label.free {
-      color: #F6B606; }
+  margin-bottom: 10px; }
+  .m .header {
+    padding: 10px 16px; }
+    .m .header .title {
+      font-size: 20px;
+      margin: 0; }
+    .m .header .card-label {
+      font-weight: 500;
+      font-size: 12px;
+      color: #868696;
+      margin-bottom: 5px;
+      display: flex;
+      justify-content: space-between; }
+      .m .header .card-label.free {
+        color: #F6B606; }
   .m .footer {
     padding: 10px 16px; }
     .m .footer .title {
