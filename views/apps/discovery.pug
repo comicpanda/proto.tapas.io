@@ -1,0 +1,92 @@
+extends app-layout
+block scripts
+  script(src='/javascripts/discover.js')
+
+block content
+  .section
+    h1.s-header Today
+    .m.m1
+      #top-carousel.carousel.slide(data-interval='false')
+        ol.carousel-indicators
+          li.active(data-slide-to="0" data-target="#top-carousel")
+          li(data-slide-to="1" data-target="#top-carousel")
+          li(data-slide-to="2" data-target="#top-carousel")
+          li(data-slide-to="3" data-target="#top-carousel")
+          li(data-slide-to="4" data-target="#top-carousel")
+          li(data-slide-to="5" data-target="#top-carousel")
+          li(data-slide-to="6" data-target="#top-carousel")
+          li(data-slide-to="7" data-target="#top-carousel")
+        .carousel-inner
+          .carousel-item.active
+            img(src='/images/carousel/b/1.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/2.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/3.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/4.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/5.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/6.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/7.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/b/8.jpg' class='d-block w-100')
+        a(href='#top-carousel' class='carousel-control-prev' data-slide='prev')
+          .carousel-control-prev-icon
+        a(href='#top-carousel' class='carousel-control-next' data-slide='next')
+          .carousel-control-next-icon
+      .footer
+        p.card-label New Release
+        h3.title Body for Rent
+        p Chasing the "perfect" body? Want it instantly? It can be done, but it’ll cost you...
+    .m.m1
+      #sec-carousel.carousel.slide(data-interval='false')
+        ol.carousel-indicators
+          li.active(data-slide-to="0" data-target="#sec-carousel")
+          li(data-slide-to="1" data-target="#sec-carousel")
+          li(data-slide-to="2" data-target="#sec-carousel")
+          li(data-slide-to="3" data-target="#sec-carousel")
+          li(data-slide-to="4" data-target="#sec-carousel")
+          li(data-slide-to="5" data-target="#sec-carousel")
+          li(data-slide-to="6" data-target="#sec-carousel")
+          li(data-slide-to="7" data-target="#sec-carousel")
+        .carousel-inner
+          .carousel-item.active
+            img(src='/images/carousel/a/1.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/a/2.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/a/3.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/a/4.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/a/5.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/a/6.jpg' class='d-block w-100')
+          .carousel-item
+            img(src='/images/carousel/a/7.jpg' class='d-block w-100')
+        a(href='#sec-carousel' class='carousel-control-prev' data-slide='prev')
+          .carousel-control-prev-icon
+        a(href='#sec-carousel' class='carousel-control-next' data-slide='next')
+          .carousel-control-next-icon
+      .footer
+        p.card-label Free Gift
+        h3.title The Time We Have
+        p
+          | What would you do if your loved one returned from the dead...as your student?!
+          a(href="#romance") &nbsp;#romance
+      .cta
+        p.mb-0 Get a free episode <span class='float-right'>&gt;</span>
+    .m.m2
+      .banner
+        img(src='/images/banner/b.jpg')
+      .footer
+        p.card-label Free Gift
+        h3.title Demons Can't Be Pretty
+        p
+          | Readers are freaking out over the latest episode of "Demons Can't Be Pretty"! 😈 See what they're saying about this hit series that's gained over 11k followers in less than a week!
+          a(href="#romance") &nbsp;#tapasoriginal
+      .cta
+        p.mb-0 Get free episodes <span class='float-right'>&gt;</span>

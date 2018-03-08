@@ -1,0 +1,112 @@
+body {
+  font-family: 'Quicksand', var(--font-family-sans-serif);
+  color: #262636;
+}
+
+.header {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  background-color: #262636;
+  width: 100%;
+  color: white;
+  z-index: 1;
+  .screen-name {
+    text-align: center;
+    width: 100%;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+  }
+}
+
+.content {
+  margin: 50px 0;
+  z-index: 10;
+  position: relative;
+}
+
+.tabbar {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  height: 49px;
+  background-color: white;
+  border-top: 1px solid #ccc;
+  width: 100%;
+  z-index: 11;
+  .tabbar-item {
+    font-weight: 400;
+    position: relative;
+    flex-grow: 1;
+    flex-basis: 0;
+    width: auto;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    a {
+      display: inline-block;
+      text-align: center;
+      width: 100%;
+      &:not(.selected) {
+        color: #262636;
+      }
+    }
+  }
+}
+.section {
+  background-color: #F2F2F2;
+  .s-header {
+    font-weight: 700;
+    margin-bottom: 0;
+    padding: 10px;
+    font-size: 24px;
+    background-color: white;
+    border-bottom: 1px solid #e6ecf0;
+  }
+}
+.m {
+  background-color: white;
+  color: #262636;
+  margin-bottom: 10px;
+  .footer {
+    padding: 10px 16px;
+    .title {
+      font-size: 20px;
+    }
+    .card-label {
+      font-weight: 500;
+      font-size: 12px;
+      color: #868696;
+      margin-bottom: 5px;
+    }
+  }
+  .cta {
+    padding: 0 16px 10px;
+    p {
+      margin-bottom: 0;
+      color: #464656;
+      font-weight: bold;
+    }
+  }
+}
+.m2 {
+  .banner {
+    img {
+      max-width: 100%;
+    }
+  }
+}
