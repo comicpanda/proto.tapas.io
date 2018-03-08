@@ -2,7 +2,9 @@ body {
   font-family: 'Quicksand', var(--font-family-sans-serif);
   color: #262636;
 }
-
+img {
+  max-width: 100%;
+}
 .g-header {
   display: flex;
   position: fixed;
@@ -101,6 +103,13 @@ body {
       &.free {
         color: #F6B606;
       }
+      &.kaki {
+        color: #F68606;
+      }
+      &.big {
+        font-size: 16px;
+        color: #262636;
+      }
     }
   }
   .footer {
@@ -119,20 +128,10 @@ body {
         color: #F6B606;
       }
     }
-    .get {
-      font-size: 14px;
-      padding: 0 5px;
-      border: 1px solid var(--blue);
-      border-radius: 3px;
-      color: var(--blue);
-    }
   }
   .cta {
-    padding: 0 16px 10px;
-    &.up {
-      padding: 10px 16px;
-      border-bottom: 1px solid #f2f2f2;
-    }
+    padding: 10px 16px;
+    border-bottom: 1px solid #f2f2f2;
     p {
       margin-bottom: 0;
       color: #464656;
@@ -144,6 +143,61 @@ body {
   .banner {
     img {
       max-width: 100%;
+    }
+  }
+}
+.m3 {
+  .viewport {
+    overflow-x: auto;
+  }
+  .items {
+    padding: 0;
+    margin-bottom: 10px;
+    display: inline-flex;
+    .item {
+      padding-left: 16px;
+      display: flex;
+      flex-shrink: 0;
+      width: 90%;
+      &.empty {
+        width: 0;
+      }
+      .wrap {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        .sub-title {
+          font-weight: 500;
+          font-size: 12px;
+          color: #868696;
+          margin-bottom: 0;
+        }
+        .title {
+          font-size: 14px;
+        }
+        .img-wrap {
+          overflow: hidden;
+          border-radius: 5px;
+          height: 100%;
+          position: relative;
+        }
+        .text-wrap {
+          height: 100%;
+          background-size: cover;
+          filter: blur(10px);
+          /*image*/
+        }
+        .quote {
+          margin: 0;
+          padding: 0 10px;
+          font-size: 20px;
+          transform: translateY(-50%);
+          top: 50%;
+          position: absolute;
+          color: white;
+          text-align: center;
+        }
+      }
     }
   }
 }

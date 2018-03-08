@@ -6,8 +6,8 @@ router.get('/home', (req, res, next) => {
   res.render('apps/home', {menu: 'Tapas'});
 });
 
-router.get('/discovery', (req, res, next) => {
-  res.render('apps/discovery', {menu: 'Discovery'});
+router.get('/discover', (req, res, next) => {
+  res.render('apps/discover', {menu: 'Discover'});
 });
 
 router.get('/library', (req, res, next) => {
