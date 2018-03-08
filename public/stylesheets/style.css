@@ -153,12 +153,16 @@ img {
         border-radius: 5px;
         height: 100%;
         position: relative;
-        flex-basis: 0%; }
+        flex: 1; }
       .m3 .items .item .wrap .text-wrap {
         height: 100%;
         background-size: cover;
         filter: blur(10px);
-        /*image*/ }
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0; }
       .m3 .items .item .wrap .quote {
         margin: 0;
         padding: 0 10px;
