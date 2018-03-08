@@ -2,7 +2,7 @@ body {
   font-family: "Quicksand", var(--font-family-sans-serif);
   color: #262636; }
 
-.header {
+.g-header {
   display: flex;
   position: fixed;
   top: 0;
@@ -16,7 +16,7 @@ body {
   width: 100%;
   color: white;
   z-index: 1; }
-  .header .screen-name {
+  .g-header .screen-name {
     text-align: center;
     width: 100%;
     font-size: 24px;
@@ -62,7 +62,7 @@ body {
 
 .section {
   background-color: #F2F2F2; }
-  .section .s-header {
+  .section .header {
     font-weight: 700;
     margin-bottom: 0;
     padding: 10px;
@@ -73,7 +73,19 @@ body {
 .m {
   background-color: white;
   color: #262636;
-  margin-bottom: 10px; }
+  margin: 10px 0; }
+  .m .header .title {
+    font-size: 20px;
+    margin: 0; }
+  .m .header .card-label {
+    font-weight: 500;
+    font-size: 12px;
+    color: #868696;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between; }
+    .m .header .card-label.free {
+      color: #F6B606; }
   .m .footer {
     padding: 10px 16px; }
     .m .footer .title {
@@ -82,9 +94,22 @@ body {
       font-weight: 500;
       font-size: 12px;
       color: #868696;
-      margin-bottom: 5px; }
+      margin-bottom: 5px;
+      display: flex;
+      justify-content: space-between; }
+      .m .footer .card-label.free {
+        color: #F6B606; }
+    .m .footer .get {
+      font-size: 14px;
+      padding: 0 5px;
+      border: 1px solid var(--blue);
+      border-radius: 3px;
+      color: var(--blue); }
   .m .cta {
     padding: 0 16px 10px; }
+    .m .cta.up {
+      padding: 10px 16px;
+      border-bottom: 1px solid #f2f2f2; }
     .m .cta p {
       margin-bottom: 0;
       color: #464656;

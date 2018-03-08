@@ -9,7 +9,7 @@ html
     link(rel='stylesheet', href='/stylesheets/style.css')
 
   body
-    header.header
+    header.g-header
       span.screen-name=menu
     main.content
       block content
@@ -18,7 +18,7 @@ html
       .tabbar-item
         a(href='/apps/home' class=(menu === 'Tapas' ? 'selected':'')) Home
       .tabbar-item
-        a(href='/apps/discovery' class=(menu === 'Discover' ? 'selected':'')) Discover
+        a(href='/apps/discovery' class=(menu === 'Discovery' ? 'selected':'')) Discovery
       .tabbar-item
         a(href='/apps/library' class=(menu === 'Library' ? 'selected':'')) Library
       .tabbar-item
