@@ -152,7 +152,8 @@ img {
         overflow: hidden;
         border-radius: 5px;
         height: 100%;
-        position: relative; }
+        position: relative;
+        flex-basis: 0%; }
       .m3 .items .item .wrap .text-wrap {
         height: 100%;
         background-size: cover;
