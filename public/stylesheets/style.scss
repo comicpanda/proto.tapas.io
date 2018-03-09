@@ -231,6 +231,9 @@ img {
       &.empty {
         width: 0;
       }
+      &:first-child.empty {
+        margin-right: 16px;
+      }
       &:last-child.empty {
         padding-right: 6px;
       }
@@ -298,6 +301,13 @@ img {
       &.empty {
         width: 0;
       }
+      &:first-child.empty {
+        margin-right: 16px;
+      }
+      &:last-child.empty {
+        padding-right: 6px;
+      }
+
       .wrap {
         width: 100%;
         display: flex;
