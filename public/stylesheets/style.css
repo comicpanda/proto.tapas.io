@@ -204,14 +204,6 @@ img {
       margin-right: 16px; }
     .m4 .items .item:last-child.empty {
       padding-right: 6px; }
-    .m4 .items .item .item-label {
-      margin-bottom: 5px;
-      padding-top: 2px; }
-      .m4 .items .item .item-label .item-label-inner {
-        font-weight: 500;
-        border: 1px solid #e6ecf0;
-        padding: 2px 4px;
-        border-radius: 5px; }
     .m4 .items .item .wrap {
       width: 100%;
       display: flex;
@@ -270,6 +262,13 @@ img {
       margin-right: 16px; }
     .m5 .items .item:last-child.empty {
       padding-right: 6px; }
+    .m5 .items .item .item-label {
+      margin-bottom: 10px;
+      padding-top: 2px; }
+      .m5 .items .item .item-label .item-label-inner {
+        font-weight: 500; }
+        .m5 .items .item .item-label .item-label-inner.today {
+          color: #F68606; }
     .m5 .items .item .wrap {
       width: 100%;
       display: flex;
