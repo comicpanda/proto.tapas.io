@@ -193,6 +193,8 @@ img {
     width: 50%; }
     .m4 .items .item.empty {
       width: 0; }
+    .m4 .items .item:last-child.empty {
+      padding-right: 6px; }
     .m4 .items .item .wrap {
       width: 100%;
       display: flex;
@@ -228,7 +230,7 @@ img {
       height: 24px;
       font-weight: 700 !important;
       position: absolute;
-      bottom: 70px;
+      bottom: 60px;
       right: 0;
       border-radius: 2px 0 0 2px; }
 
