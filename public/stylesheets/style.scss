@@ -77,7 +77,7 @@ img {
     padding: 16px;
     font-size: 24px;
     background-color: white;
-    border-bottom: 1px solid #e6ecf0;
+    /*border-bottom: 1px solid #e6ecf0;*/
     position: sticky;
     top: 50px;
     z-index: 99;
@@ -205,4 +205,101 @@ img {
       }
     }
   }
+}
+.m4 {
+  .viewport {
+    overflow-x: auto;
+  }
+  .items {
+    width: 100%;
+    display: inline-flex;
+    .item {
+      margin-right: 10px;
+      flex-shrink: 0;
+      width: 50%;
+      &.empty {
+        width: 0;
+      }
+      .wrap {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+      .desc {
+        padding: 5px;
+      }
+      .title {
+        font-size: 14px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        margin-bottom: 5px;
+      }
+      .author {
+        font-size: 12px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        color: #868696;
+        margin: 0;
+      }
+    }
+  }
+}
+.m5 {
+   .viewport {
+    overflow-x: auto;
+  }
+  .items {
+    width: 100%;
+    display: inline-flex;
+    .item {
+      margin-right: 10px;
+      flex-shrink: 0;
+      width: 85%;
+      &.empty {
+        width: 0;
+      }
+      .wrap {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+      .arow {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      .num {
+        width: 15px;
+        font-weight: 500;
+        margin-right: 5px;
+      }
+      .desc {
+        padding-left: 10px;
+        width: 70%;
+      }
+      .title {
+        font-size: 14px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        margin-bottom: 5px;
+      }
+      .author {
+        font-size: 12px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        color: #868696;
+        margin-bottom: 5px;
+      }
+      .stats {
+        color: #868696;
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+  }
+
 }

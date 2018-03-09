@@ -71,7 +71,7 @@ img {
     padding: 16px;
     font-size: 24px;
     background-color: white;
-    border-bottom: 1px solid #e6ecf0;
+    /*border-bottom: 1px solid #e6ecf0;*/
     position: sticky;
     top: 50px;
     z-index: 99; }
@@ -172,5 +172,82 @@ img {
         position: absolute;
         color: white;
         text-align: center; }
+
+.m4 .viewport {
+  overflow-x: auto; }
+
+.m4 .items {
+  width: 100%;
+  display: inline-flex; }
+  .m4 .items .item {
+    margin-right: 10px;
+    flex-shrink: 0;
+    width: 50%; }
+    .m4 .items .item.empty {
+      width: 0; }
+    .m4 .items .item .wrap {
+      width: 100%;
+      display: flex;
+      flex-direction: column; }
+    .m4 .items .item .desc {
+      padding: 5px; }
+    .m4 .items .item .title {
+      font-size: 14px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-bottom: 5px; }
+    .m4 .items .item .author {
+      font-size: 12px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: #868696;
+      margin: 0; }
+
+.m5 .viewport {
+  overflow-x: auto; }
+
+.m5 .items {
+  width: 100%;
+  display: inline-flex; }
+  .m5 .items .item {
+    margin-right: 10px;
+    flex-shrink: 0;
+    width: 85%; }
+    .m5 .items .item.empty {
+      width: 0; }
+    .m5 .items .item .wrap {
+      width: 100%;
+      display: flex;
+      flex-direction: column; }
+    .m5 .items .item .arow {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px; }
+    .m5 .items .item .num {
+      width: 15px;
+      font-weight: 500;
+      margin-right: 5px; }
+    .m5 .items .item .desc {
+      padding-left: 10px;
+      width: 70%; }
+    .m5 .items .item .title {
+      font-size: 14px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-bottom: 5px; }
+    .m5 .items .item .author {
+      font-size: 12px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: #868696;
+      margin-bottom: 5px; }
+    .m5 .items .item .stats {
+      color: #868696;
+      font-size: 12px;
+      margin-bottom: 0; }
 
 /*# sourceMappingURL=style.css.map */

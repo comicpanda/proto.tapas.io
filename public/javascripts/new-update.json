@@ -1,0 +1,719 @@
+[
+        {
+            "id": 97662,
+            "title": "Her Recipe",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 52767,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/c1/33dfcde3-4ad1-4d49-8340-0aabab318554.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/a4/747fe978-8fd2-4205-af4e-b26f7a913fab.jpg",
+            "creators": [
+                {
+                    "id": 832386,
+                    "uname": "choihaewoong",
+                    "display_name": "Choi Hae Woong",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/be/11696ad5-1a20-4cff-8f56-bf51afe6a618.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#d4cdcc",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-01T15:27:39Z",
+            "last_episode_updated_date": "2018-03-08T17:10:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 96045,
+            "title": "100 Days in Europe",
+            "type": "COMICS",
+            "sale_type": "WAIT_OR_PAY",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 40300,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/dd/2fb4b9c7-8f5f-4a20-b69d-1a5260038b58.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/f9/df92ff13-39c2-49e0-928e-4674c2a1a9bc.jpg",
+            "creators": [
+                {
+                    "id": 2244684,
+                    "uname": "oyharas",
+                    "display_name": "Jihyo Kim",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/28/17f7f9a9-3dda-4220-ab14-dabc5f6dace7.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#111417",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-02-15T18:40:44Z",
+            "last_episode_updated_date": "2018-03-08T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 79249,
+            "title": "Fox Spirit Matchmaker",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 140136,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/ec/1fde7001-63f7-4f2f-9bb6-30f79dd95fda.png"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/c9/0a7dca69-f9da-4fb5-b98f-1153d9859e58.jpg",
+            "creators": [
+                {
+                    "id": 2280156,
+                    "uname": "Xiaoxin",
+                    "display_name": "Xiaoxin",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/a5/7bc28acf-f5c0-42d2-b8d4-417613de051e.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#eec1cf",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-05T23:27:15Z",
+            "last_episode_updated_date": "2018-03-08T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 92118,
+            "title": "Zombie Brother",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 43847,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/58/72388df2-69a9-4512-8b52-012e63ebef20.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/14/a7a6a69c-a1f6-491d-a241-52e32c5b25e7.jpg",
+            "creators": [
+                {
+                    "id": 2799230,
+                    "uname": "Qiduyu",
+                    "display_name": "Qiduyu",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/17/a14f76bc-6f74-4108-bd6c-07bdc17f495b.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#e4cca0",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-05T23:28:13Z",
+            "last_episode_updated_date": "2018-03-08T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 89542,
+            "title": "My Maria",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 28086,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/fd/45890cfa-b552-48dc-96b2-5b582ed45764.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/c6/50a5310a-ee09-479a-924a-551e6073109b.jpg",
+            "creators": [
+                {
+                    "id": 2713143,
+                    "uname": "Michicreator",
+                    "display_name": "Michi",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/12/89e1f6c6-3761-4842-b16e-9ed101b52651.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#311013",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-01-25T19:12:22Z",
+            "last_episode_updated_date": "2018-03-08T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 76996,
+            "title": "My Lovely Two Two",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 58980,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/c5/47b3611a-ef6d-49fe-a5a4-a5f344e52ae4.png"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/ee/e07edd3b-2aaf-46d4-b428-f98100fda821.jpg",
+            "creators": [
+                {
+                    "id": 2194935,
+                    "uname": "Gobang",
+                    "display_name": "Gobang",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/b6/6fafa911-1e53-4e96-8a74-d16bbe42db13.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#18191d",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-01-25T19:12:52Z",
+            "last_episode_updated_date": "2018-03-08T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 44952,
+            "title": "Franken's Village",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 33289,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/ee/152eae57-b1b2-492d-a398-023039520301.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/2b/11e18cc0-83c4-4cf5-8be2-8fa19444d8f4.jpg",
+            "creators": [
+                {
+                    "id": 1190797,
+                    "uname": "cheolbum",
+                    "display_name": "Cheolbum",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/defaultuser.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ce6b7c",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-01-18T22:48:44Z",
+            "last_episode_updated_date": "2018-03-08T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 72832,
+            "title": "His Barcode Tattoo",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 17520,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/7c/2934aa11-b648-499d-a7c8-0158c3b8c25b.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/4d/52231b52-c9f6-4d24-8bab-c4727de0627a.jpg",
+            "creators": [
+                {
+                    "id": 1173940,
+                    "uname": "ivysong",
+                    "display_name": "Ivy Song",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/11/b817b6d5-266a-4ffb-ba20-5fcd9322066b.png",
+                    "joined_creator_tip": false
+                },
+                {
+                    "id": 89609,
+                    "uname": "wishroomness",
+                    "display_name": "Wishroomness",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/43/8711cf8b-dba9-4473-93d9-14b38f96671b.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#c2babc",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-07T20:01:25Z",
+            "last_episode_updated_date": "2018-03-07T20:01:25Z",
+            "merch_url": null
+        },
+        {
+            "id": 82440,
+            "title": "Black Pupil",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 40259,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/e1/ef6eb698-1361-4704-85a1-af22bd94723b.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/39/1ad5b1c9-4b5d-48e5-8265-671ea8b68180.jpg",
+            "creators": [
+                {
+                    "id": 2418677,
+                    "uname": "tub",
+                    "display_name": "Tub",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/c8/2d80aa37-b673-4a66-bd0f-1c05710c1d77.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#c58b8d",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-05T23:25:51Z",
+            "last_episode_updated_date": "2018-03-07T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 78508,
+            "title": "The Girl Who Sees Smells",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 37529,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/33/c0c1fd9e-0556-4665-9c16-be8815b46908.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/b0/4b4abba5-4009-421a-a208-9a4941ffbef4.jpg",
+            "creators": [
+                {
+                    "id": 2213882,
+                    "uname": "ManChwi",
+                    "display_name": "Man Chwi",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/1d/812bbd90-508d-427f-a896-d467672e8105.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#e8ced2",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-02-14T19:32:57Z",
+            "last_episode_updated_date": "2018-03-07T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 31663,
+            "title": "Homo Sexience",
+            "type": "COMICS",
+            "sale_type": "WAIT_OR_PAY",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 11820,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/d5/b829202a-4ed6-4ade-8322-e521a05d457c.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/66/d052f88e-3df2-4402-9e2f-8df0a93c00b9.jpg",
+            "creators": [
+                {
+                    "id": 17937,
+                    "uname": "kocoadogado",
+                    "display_name": "dogado",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/10/7a/3e/34/88deb354eb054b0a8fef4666f9268460.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": {
+                "name": "17",
+                "icon_path": null
+            },
+            "rgb_hex": "#f1d6d4",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2017-10-11T20:49:27Z",
+            "last_episode_updated_date": "2018-03-07T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 89536,
+            "title": "Touch",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 42094,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/2b/7ef12748-a8b5-43fa-bdb1-5491ee961492.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/fd/640a761a-65f5-476b-a23c-c9cb378f9605.jpg",
+            "creators": [
+                {
+                    "id": 2712957,
+                    "uname": "Buku",
+                    "display_name": "Buku",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/b4/37117c3b-94b6-45f6-9b35-3fe7755dd9fd.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#8f7d62",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-02-27T20:12:02Z",
+            "last_episode_updated_date": "2018-03-07T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 74598,
+            "title": "World of Gods",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 121286,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/45/b5361b7f-245d-48b7-be83-f60f8890ba6d.png"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/06/bb056291-cb24-4b11-92ca-97ae7da1a884.png",
+            "creators": [
+                {
+                    "id": 2111904,
+                    "uname": "Hongsi",
+                    "display_name": "Hongsi",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/39/4602b37d-8ada-4af8-811a-b4a3cf60cd5b.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#e9c8b2",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-02-13T18:23:30Z",
+            "last_episode_updated_date": "2018-03-07T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 97981,
+            "title": "Meg, Jo, Beth and Amy: Little Women",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 53445,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/c9/44b82f0f-7856-42be-a9cb-b23c9cf7270d.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/02/57ca753f-1282-486f-99a0-3771d3979b8c.jpg",
+            "creators": [
+                {
+                    "id": 2981020,
+                    "uname": "ReyTerciero",
+                    "display_name": "Rey Terciero",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/07/aaf2e63b-1d2a-44ba-b48f-0fc3a41cba9e.jpg",
+                    "joined_creator_tip": false
+                },
+                {
+                    "id": 235318,
+                    "uname": "ndgo",
+                    "display_name": "NDGO",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/b2/bc3ace6f-85a1-41dc-967e-4383163183c3.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#b67e7e",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-06T19:06:39Z",
+            "last_episode_updated_date": "2018-03-07T14:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 85356,
+            "title": "the Other Heroes",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 38046,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/4f/d6456280-594d-4cc8-a624-504c60e58f22.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/37/176418aa-8833-42a3-8852-ca4ca795f60a.jpg",
+            "creators": [
+                {
+                    "id": 336253,
+                    "uname": "antimekii",
+                    "display_name": "Twelve",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/55/88d550c2-1c2c-43ab-8e64-ede68538d18c.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#361f30",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-06T21:04:46Z",
+            "last_episode_updated_date": "2018-03-06T21:04:46Z",
+            "merch_url": null
+        },
+        {
+            "id": 83111,
+            "title": "Demons Can't Be Pretty",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 34728,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/4a/9971c308-ae35-438f-9fed-1a91839e4aa2.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/81/39bf9143-ee37-4c82-8b31-d8b6ea1c374d.jpg",
+            "creators": [
+                {
+                    "id": 2446160,
+                    "uname": "coolchic",
+                    "display_name": "Coolchic",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/91/b117a0aa-6e55-4efc-bd6a-056c65492fa4.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#221b1e",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-02-27T20:12:33Z",
+            "last_episode_updated_date": "2018-03-06T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 82424,
+            "title": "A Couple of Handsome Men",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 37485,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/93/bfa55a26-df95-4875-b275-59b2c1eb708a.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/76/c402aff1-dafb-4ab8-97ca-c5d788f4a738.jpg",
+            "creators": [
+                {
+                    "id": 2418043,
+                    "uname": "Amberay",
+                    "display_name": "Amberay",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/84/8f7a9487-470e-4472-81ed-c3567504daa8.png",
+                    "joined_creator_tip": false
+                },
+                {
+                    "id": 2418047,
+                    "uname": "Xinghai1",
+                    "display_name": "Xinghai",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/3a/57bf1b44-4b29-4b11-8080-f6ddd7b18ac4.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#2d282e",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-05T23:24:55Z",
+            "last_episode_updated_date": "2018-03-06T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 80335,
+            "title": "Book of Yaoguai",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 46268,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/19/dccf1cfb-6820-4c46-9e91-5c858da36495.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/e7/199143b3-0a5e-474a-bcc1-2dd7a77b3115.jpg",
+            "creators": [
+                {
+                    "id": 2316394,
+                    "uname": "Tangrenjia",
+                    "display_name": "Tangrenjia",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/d4/bde6a03a-b311-45c0-9be1-899d37229a6f.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#271a22",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-05T23:27:43Z",
+            "last_episode_updated_date": "2018-03-06T17:05:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 84427,
+            "title": "My Ancestor is a Witch",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 47602,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/41/7fd62654-785e-4c39-aa07-572ca18b1b8d.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/a8/133d17bd-52b2-462c-b852-9cc59bb49c62.jpg",
+            "creators": [
+                {
+                    "id": 2516277,
+                    "uname": "Hanaku",
+                    "display_name": "Hanaku",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/8b/19d225ec-63bd-4884-90c9-5e99c4d49802.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ecdcd3",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-03-05T23:26:21Z",
+            "last_episode_updated_date": "2018-03-06T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 79109,
+            "title": "Pan Peter",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 29345,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/6d/fdd69b48-2bcb-467e-abf5-be219c1720d6.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/9e/0602bb8a-4a2d-4bdc-8fb0-96519f66200e.jpg",
+            "creators": [
+                {
+                    "id": 2273480,
+                    "uname": "jangmaro",
+                    "display_name": "Jang Maro",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/69/9415424f-c3ed-4d9e-b68b-bc3d1ad0839f.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#d2806e",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2017-12-27T08:37:23Z",
+            "last_episode_updated_date": "2018-03-06T17:00:00Z",
+            "merch_url": null
+        },
+        {
+            "id": 54581,
+            "title": "Devil Sword King",
+            "type": "COMICS",
+            "sale_type": "PAID",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 19510,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/8f/a184fbab-ba94-419a-9ede-9eca8b010bfd.jpg"
+            },
+            "book_cover_url": "https://d30womf5coomej.cloudfront.net/sa/1a/160540b7-e77e-4bd2-9def-3911122d1961.jpg",
+            "creators": [
+                {
+                    "id": 1396297,
+                    "uname": "gumiso",
+                    "display_name": "SOGUMI",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/defaultuser.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#393336",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null,
+            "has_new_episode": false,
+            "related_series": [],
+            "updated_date": "2018-02-27T20:44:32Z",
+            "last_episode_updated_date": "2018-03-06T17:00:00Z",
+            "merch_url": null
+        }
+    ]
