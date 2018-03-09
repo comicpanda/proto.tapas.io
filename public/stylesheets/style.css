@@ -73,11 +73,13 @@ img {
     background-color: white;
     /*border-bottom: 1px solid #e6ecf0;*/ }
     .section .s-header .not {
-      color: #ccc; }
+      color: #ccc !important; }
     .section .s-header .gray {
       color: #F2F2F2; }
     .section .s-header .comic {
       color: #F6B606; }
+    .section .s-header .novel {
+      color: #26b6b6; }
 
 .m {
   background-color: white;
@@ -187,6 +189,8 @@ img {
   width: 100%;
   display: inline-flex;
   font-size: 14px; }
+  .m4 .items.small .item {
+    width: 28%; }
   .m4 .items .item {
     margin-right: 10px;
     flex-shrink: 0;

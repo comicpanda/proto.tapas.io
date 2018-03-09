@@ -1,6 +1,5 @@
 extends app-layout
 block scripts
-  script(src='https://cdnlocal.tapas.io/resources/js/libs/jquery.js?t=1520615543')
   script(src='/javascripts/discover.js')
 
 block content
@@ -149,6 +148,26 @@ block content
                 img(src='https://d30womf5coomej.cloudfront.net/sa/7d/1c2e2fd1-3d76-4bc0-bc56-f82952259239.png')
 
           .item.empty
+    h1.s-header.mt-3 Sales
+    .m.m4
+      .viewport
+        .items
+          .item.empty
+          .item
+            .wrap
+              img(src='https://d30womf5coomej.cloudfront.net/sa/57/ebc5b4b6-3114-4300-be89-0da8b6c6abb3_z.jpg')
+              .series-sale-label Save 50%
+              .desc
+                h3.title Eve
+                p.author Eunyou
+          .item
+            .wrap
+              img(src='https://d30womf5coomej.cloudfront.net/sa/d7/d80a9f83-4f92-4c41-85ec-f2a507670bca_z.jpg')
+              .series-sale-label Save 30%
+              .desc
+                h3.title Body for Rent
+                p.author Zephygaru
+          .item.empty
     h1.s-header.mt-3 Popular
       .right.float-right
         small.ml-2.comic Comics
@@ -172,9 +191,13 @@ block content
             .wrap.js-second
           .item.empty
     h1.s-header.mt-3 New Updates
+      .right.float-right
+          small.ml-2.not.comic Comics
+          small.gray &nbsp;|&nbsp;
+          small.novel Novels
     .m.m4
       .viewport
-        .items.js-new-update
+        .items.js-new-update.small
     h1.s-header.mt-3 Categories
     .m.m6
       .items
@@ -200,32 +223,12 @@ block content
           .tag #slice of life
         .item
           .tag #THOMAS
-    h1.s-header.mt-3 Sales
-    .m.m4
-      .viewport
-        .items
-          .item.empty
-          .item
-            .wrap
-              img(src='https://d30womf5coomej.cloudfront.net/sa/57/ebc5b4b6-3114-4300-be89-0da8b6c6abb3_z.jpg')
-              .series-sale-label Save 50%
-              .desc
-                h3.title Eve
-                p.author Eunyou
-          .item
-            .wrap
-              img(src='https://d30womf5coomej.cloudfront.net/sa/d7/d80a9f83-4f92-4c41-85ec-f2a507670bca_z.jpg')
-              .series-sale-label Save 30%
-              .desc
-                h3.title Body for Rent
-                p.author Zephygaru
-          .item.empty
     h1.s-header.mt-3 Weekly
     .m.m4
       .viewport
-        .items.align-items-end.js-weekly
+        .items.align-items-end.small.js-weekly
 
-    h1.s-header.mt-3 Explore all
+    h1.s-header.mt-3 Explore more
     .m.m7
       .items
         .item

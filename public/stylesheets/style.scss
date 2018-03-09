@@ -79,13 +79,16 @@ img {
     background-color: white;
     /*border-bottom: 1px solid #e6ecf0;*/
     .not {
-      color: #ccc;
+      color: #ccc !important;
     }
     .gray {
       color: #F2F2F2;
     }
     .comic {
       color: #F6B606;
+    }
+    .novel {
+      color: #26b6b6;
     }
   }
 }
@@ -224,10 +227,16 @@ img {
     width: 100%;
     display: inline-flex;
     font-size: 14px;
+    &.small {
+      .item {
+        width: 28%;
+      }
+    }
     .item {
       margin-right: 10px;
       flex-shrink: 0;
       width: 50%;
+
       &.empty {
         width: 0;
       }
