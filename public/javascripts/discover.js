@@ -12,7 +12,7 @@ const newUpdateMarkup = ['',
 '  </div>',
 '</div>'].join('');
 
-const rankingMarkup = ['',
+const trendingMarkup = ['',
 '<div class="arow">',
   '<span class="num">{{num}}</span>',
   '<img src="{{src}}" height="70" class="rounded">',
@@ -26,7 +26,7 @@ const rankingMarkup = ['',
 
 
 const $newUpdate = $('.js-new-update');
-const $rankding = $('.js-ranking');
+const $trending = $('.js-trending');
 const templateCompile = (str, params) => {
   if(params === undefined || params === null) {
     return str;
@@ -66,13 +66,13 @@ $.getJSON( "/javascripts/new-update.json", function( data ) {
 $.getJSON( "/javascripts/trending.json", function( data ) {
   const first = data.slice(0, 5);
   const second = data.slice(5, 10);
-  const $first = $rankding.find('.js-first');
-  const $second = $rankding.find('.js-second');
+  const $first = $trending.find('.js-first');
+  const $second = $trending.find('.js-second');
 
   first.forEach((item, idx) => {
-    $first.append(templateCompile(rankingMarkup, { num: idx + 1, src: item.thumb.file_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}))
+    $first.append(templateCompile(trendingMarkup, { num: idx + 1, src: item.thumb.file_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}))
   });
   second.forEach((item, idx) => {
-    $second.append(templateCompile(rankingMarkup, { num: idx + 6, src: item.thumb.file_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}))
+    $second.append(templateCompile(trendingMarkup, { num: idx + 6, src: item.thumb.file_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}))
   });
 });
