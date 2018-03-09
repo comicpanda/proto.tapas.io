@@ -78,6 +78,15 @@ img {
     font-size: 24px;
     background-color: white;
     /*border-bottom: 1px solid #e6ecf0;*/
+    .not {
+      color: #ccc;
+    }
+    .gray {
+      color: #F2F2F2;
+    }
+    .comic {
+      color: #F6B606;
+    }
   }
 }
 .m {
@@ -146,9 +155,11 @@ img {
 .m3 {
   .viewport {
     overflow-x: auto;
+    font-size: 0;
   }
   .items {
     padding: 0;
+    font-size: 14px;
     margin-bottom: 10px;
     display: inline-flex;
     .item {
@@ -206,10 +217,13 @@ img {
 .m4 {
   .viewport {
     overflow-x: auto;
+    font-size: 0;
+    padding-bottom: 10px;
   }
   .items {
     width: 100%;
     display: inline-flex;
+    font-size: 14px;
     .item {
       margin-right: 10px;
       flex-shrink: 0;
@@ -221,9 +235,10 @@ img {
         width: 100%;
         display: flex;
         flex-direction: column;
+        position: relative;
       }
       .desc {
-        padding: 5px;
+        padding: 5px 5px 0 5px;
       }
       .title {
         font-size: 14px;
@@ -242,8 +257,23 @@ img {
       }
       .up {
         font-size: 12px;
-        margin-bottom: 5px;
+        margin-bottom: 0;
         color: #868696;
+      }
+      .series-sale-label {
+        background-color: #F64656;
+        font-size: 14px;
+        color: #FFFFFF;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 8px;
+        width: 81px;
+        height: 24px;
+        font-weight: 700 !important;
+        position: absolute;
+        bottom: 60px;
+        right: 0;
+        border-radius: 2px 0 0 2px;
       }
     }
   }
@@ -251,8 +281,11 @@ img {
 .m5 {
    .viewport {
     overflow-x: auto;
+    font-size: 0;
+    padding-bottom: 20px;
   }
   .items {
+    font-size: 14px;
     width: 100%;
     display: inline-flex;
     .item {
@@ -271,6 +304,9 @@ img {
         display: flex;
         align-items: center;
         margin-bottom: 10px;
+        &:last-child {
+          margin-bottom: 0;
+        }
       }
       .num {
         width: 15px;
@@ -303,5 +339,22 @@ img {
       }
     }
   }
-
+}
+.m6 {
+  .items {
+    font-size: 14px;
+    width: 100%;
+    padding: 0 0 10px 16px;
+    .item {
+      display: inline-block;
+      margin: 0 7px 10px 0;
+      .tag {
+        padding: 5px 10px;
+        background-color: #f2f2f2;
+        border-radius: 20px;
+        white-space: nowrap;
+        font-weight: 500;
+      }
+    }
+  }
 }

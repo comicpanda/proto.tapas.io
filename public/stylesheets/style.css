@@ -72,6 +72,12 @@ img {
     font-size: 24px;
     background-color: white;
     /*border-bottom: 1px solid #e6ecf0;*/ }
+    .section .s-header .not {
+      color: #ccc; }
+    .section .s-header .gray {
+      color: #F2F2F2; }
+    .section .s-header .comic {
+      color: #F6B606; }
 
 .m {
   background-color: white;
@@ -121,10 +127,12 @@ img {
   max-width: 100%; }
 
 .m3 .viewport {
-  overflow-x: auto; }
+  overflow-x: auto;
+  font-size: 0; }
 
 .m3 .items {
   padding: 0;
+  font-size: 14px;
   margin-bottom: 10px;
   display: inline-flex; }
   .m3 .items .item {
@@ -171,11 +179,14 @@ img {
         text-align: center; }
 
 .m4 .viewport {
-  overflow-x: auto; }
+  overflow-x: auto;
+  font-size: 0;
+  padding-bottom: 10px; }
 
 .m4 .items {
   width: 100%;
-  display: inline-flex; }
+  display: inline-flex;
+  font-size: 14px; }
   .m4 .items .item {
     margin-right: 10px;
     flex-shrink: 0;
@@ -185,9 +196,10 @@ img {
     .m4 .items .item .wrap {
       width: 100%;
       display: flex;
-      flex-direction: column; }
+      flex-direction: column;
+      position: relative; }
     .m4 .items .item .desc {
-      padding: 5px; }
+      padding: 5px 5px 0 5px; }
     .m4 .items .item .title {
       font-size: 14px;
       overflow: hidden;
@@ -203,13 +215,30 @@ img {
       margin: 0; }
     .m4 .items .item .up {
       font-size: 12px;
-      margin-bottom: 5px;
+      margin-bottom: 0;
       color: #868696; }
+    .m4 .items .item .series-sale-label {
+      background-color: #F64656;
+      font-size: 14px;
+      color: #FFFFFF;
+      line-height: 24px;
+      text-align: center;
+      margin-bottom: 8px;
+      width: 81px;
+      height: 24px;
+      font-weight: 700 !important;
+      position: absolute;
+      bottom: 70px;
+      right: 0;
+      border-radius: 2px 0 0 2px; }
 
 .m5 .viewport {
-  overflow-x: auto; }
+  overflow-x: auto;
+  font-size: 0;
+  padding-bottom: 20px; }
 
 .m5 .items {
+  font-size: 14px;
   width: 100%;
   display: inline-flex; }
   .m5 .items .item {
@@ -226,6 +255,8 @@ img {
       display: flex;
       align-items: center;
       margin-bottom: 10px; }
+      .m5 .items .item .arow:last-child {
+        margin-bottom: 0; }
     .m5 .items .item .num {
       width: 15px;
       font-weight: 500;
@@ -250,5 +281,19 @@ img {
       color: #868696;
       font-size: 12px;
       margin-bottom: 0; }
+
+.m6 .items {
+  font-size: 14px;
+  width: 100%;
+  padding: 0 0 10px 16px; }
+  .m6 .items .item {
+    display: inline-block;
+    margin: 0 7px 10px 0; }
+    .m6 .items .item .tag {
+      padding: 5px 10px;
+      background-color: #f2f2f2;
+      border-radius: 20px;
+      white-space: nowrap;
+      font-weight: 500; }
 
 /*# sourceMappingURL=style.css.map */
