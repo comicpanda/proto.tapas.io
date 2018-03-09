@@ -80,6 +80,9 @@ img {
       color: #F6B606; }
     .section .s-header .novel {
       color: #26b6b6; }
+    .section .s-header .seeall {
+      font-size: 14px;
+      color: var(--blue); }
 
 .m {
   background-color: white;
