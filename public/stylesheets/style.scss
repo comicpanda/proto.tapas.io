@@ -78,9 +78,6 @@ img {
     font-size: 24px;
     background-color: white;
     /*border-bottom: 1px solid #e6ecf0;*/
-    position: sticky;
-    top: 50px;
-    z-index: 99;
   }
 }
 .m {
@@ -242,6 +239,11 @@ img {
         white-space: nowrap;
         color: #868696;
         margin: 0;
+      }
+      .up {
+        font-size: 12px;
+        margin-bottom: 5px;
+        color: #868696;
       }
     }
   }

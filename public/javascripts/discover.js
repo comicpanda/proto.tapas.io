@@ -7,7 +7,7 @@ const newUpdateMarkup = ['',
 '    <img src="{{src}}">',
 '    <div class="desc">',
 '      <h3 class="title">{{title}}</h3>',
-'      <p class="author">{{author}}</p>',
+'      <p class="up">{{hour}} hours ago</p>',
 '    </div>',
 '  </div>',
 '</div>'].join('');
@@ -54,11 +54,11 @@ const templateCompile = (str, params) => {
     return str.replace(/\{\{\w+\}\}/g, params);
   }
 };
-
+const times = [2,4,3,6];
 $.getJSON( "/javascripts/new-update.json", function( data ) {
   $newUpdate.append('<div class="item empty"/>');
-  data.forEach(item => {
-    $newUpdate.append(templateCompile(newUpdateMarkup, { src: item.book_cover_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}));
+  data.forEach((item, idx ) => {
+    $newUpdate.append(templateCompile(newUpdateMarkup, { hour: times[idx % 4], src: item.book_cover_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}));
   });
   $newUpdate.append('<div class="item empty"/>');
 });

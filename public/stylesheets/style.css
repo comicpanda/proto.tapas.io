@@ -71,10 +71,7 @@ img {
     padding: 16px;
     font-size: 24px;
     background-color: white;
-    /*border-bottom: 1px solid #e6ecf0;*/
-    position: sticky;
-    top: 50px;
-    z-index: 99; }
+    /*border-bottom: 1px solid #e6ecf0;*/ }
 
 .m {
   background-color: white;
@@ -204,6 +201,10 @@ img {
       white-space: nowrap;
       color: #868696;
       margin: 0; }
+    .m4 .items .item .up {
+      font-size: 12px;
+      margin-bottom: 5px;
+      color: #868696; }
 
 .m5 .viewport {
   overflow-x: auto; }
