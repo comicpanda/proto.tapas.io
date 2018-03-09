@@ -1,10 +1,11 @@
 extends app-layout
 block scripts
+  script(src='https://cdnlocal.tapas.io/resources/js/libs/jquery.js?t=1520615543')
   script(src='/javascripts/discover.js')
 
 block content
   .section
-    h1.s-header Today <img src="/images/settings.png" width=16 height=16 class="float-right">
+    h1.s-header For you <img src="/images/settings.png" width=16 height=16 class="float-right">
     .m.m1
       .header
         p.card-label.kaki New Release
@@ -148,11 +149,14 @@ block content
                 img(src='https://d30womf5coomej.cloudfront.net/sa/7d/1c2e2fd1-3d76-4bc0-bc56-f82952259239.png')
 
           .item.empty
-
-    h1.s-header.mt-3 New Updates
+    h1.s-header.mt-3 Popular
+      .right.float-right
+        small.ml-2.comic Comics
+        small.gray &nbsp;|&nbsp;
+        small.not.novel Novels
     .m.m4
       .viewport
-        .items.js-new-update
+        .items.js-popular
     h1.s-header.mt-3 Trending
       .right.float-right
         small.ml-2.comic Comics
@@ -167,6 +171,10 @@ block content
           .item
             .wrap.js-second
           .item.empty
+    h1.s-header.mt-3 New Updates
+    .m.m4
+      .viewport
+        .items.js-new-update
     h1.s-header.mt-3 Categories
     .m.m6
       .items
@@ -212,7 +220,23 @@ block content
                 h3.title Body for Rent
                 p.author Zephygaru
           .item.empty
-    .m.mt-5
-      p a
-      p a
+    h1.s-header.mt-3 Weekly
+    .m.m4
+      .viewport
+        .items.align-items-end.js-weekly
 
+    h1.s-header.mt-3 Explore all
+    .m.m7
+      .items
+        .item
+          .name Community Comics
+          .arrow &gt;
+        .item
+          .name Community Novels
+          .arrow &gt;
+        .item
+          .name Collections
+          .arrow &gt;
+        .item
+          .name Creators
+          .arrow &gt;

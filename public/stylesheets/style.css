@@ -197,6 +197,14 @@ img {
       margin-right: 16px; }
     .m4 .items .item:last-child.empty {
       padding-right: 6px; }
+    .m4 .items .item .item-label {
+      margin-bottom: 5px;
+      padding-top: 2px; }
+      .m4 .items .item .item-label .item-label-inner {
+        font-weight: 500;
+        border: 1px solid #e6ecf0;
+        padding: 2px 4px;
+        border-radius: 5px; }
     .m4 .items .item .wrap {
       width: 100%;
       display: flex;
@@ -303,5 +311,11 @@ img {
       border-radius: 20px;
       white-space: nowrap;
       font-weight: 500; }
+
+.m7 .item {
+  padding: 16px;
+  border-bottom: 1px solid #e6ecf0;
+  display: flex;
+  justify-content: space-between; }
 
 /*# sourceMappingURL=style.css.map */

@@ -237,6 +237,16 @@ img {
       &:last-child.empty {
         padding-right: 6px;
       }
+      .item-label {
+        margin-bottom: 5px;
+        padding-top: 2px;
+        .item-label-inner {
+          font-weight: 500;
+          border: 1px solid #e6ecf0;
+          padding: 2px 4px;
+          border-radius: 5px;
+        }
+      }
       .wrap {
         width: 100%;
         display: flex;
@@ -369,5 +379,13 @@ img {
         font-weight: 500;
       }
     }
+  }
+}
+.m7 {
+  .item {
+    padding: 16px;
+    border-bottom: 1px solid #e6ecf0;
+    display: flex;
+    justify-content: space-between;
   }
 }

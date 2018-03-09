@@ -1,6 +1,6 @@
-$('.carousel').carousel({
-  interval: false
-});
+// $('.carousel').carousel({
+//   interval: false
+// });
 const newUpdateMarkup = ['',
 '<div class="item">',
 '  <div class="wrap">',
@@ -8,6 +8,17 @@ const newUpdateMarkup = ['',
 '    <div class="desc">',
 '      <h3 class="title">{{title}}</h3>',
 '      <p class="up">{{hour}} hours ago</p>',
+'    </div>',
+'  </div>',
+'</div>'].join('');
+
+const popularMarkup = ['',
+'<div class="item">',
+'  <div class="wrap">',
+'    <img src="{{src}}">',
+'    <div class="desc">',
+'      <h3 class="title">{{title}}</h3>',
+'      <p class="author">{{author}}</p>',
 '    </div>',
 '  </div>',
 '</div>'].join('');
@@ -24,9 +35,22 @@ const trendingMarkup = ['',
   '</div>',
 '</div>'].join('');
 
+const weeklyMarkup = ['',
+'<div class="item">',
+'  <div class="wrap">',
+'    {{week}}',
+'    <img src="{{src}}">',
+'    <div class="desc">',
+'      <h3 class="title">{{title}}</h3>',
+'      <p class="author">{{author}}</p>',
+'    </div>',
+'  </div>',
+'</div>'].join('');
 
 const $newUpdate = $('.js-new-update');
 const $trending = $('.js-trending');
+const $popular = $('.js-popular');
+const $weekly = $('.js-weekly');
 const templateCompile = (str, params) => {
   if(params === undefined || params === null) {
     return str;
@@ -55,15 +79,39 @@ const templateCompile = (str, params) => {
   }
 };
 const times = [2,4,3,6];
-$.getJSON( "/javascripts/new-update.json", function( data ) {
+const weekly = ['Friday', 'Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday'];
+$.getJSON( "/javascripts/new-update.json", data => {
   $newUpdate.append('<div class="item empty"/>');
   data.forEach((item, idx ) => {
-    $newUpdate.append(templateCompile(newUpdateMarkup, { hour: times[idx % 4], src: item.book_cover_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}));
+    $newUpdate.append(templateCompile(newUpdateMarkup, { hour: times[idx % 4], src: item.book_cover_url , title: item.title}));
   });
   $newUpdate.append('<div class="item empty"/>');
 });
 
-$.getJSON( "/javascripts/trending.json", function( data ) {
+$.getJSON( '/javascripts/popular.json', data => {
+  $popular.append('<div class="item empty"/>');
+  data.forEach(item => {
+    $popular.append(templateCompile(popularMarkup, { src: item.book_cover_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}));
+  });
+  $popular.append('<div class="item empty"/>');
+});
+let lastWeekDay = '';
+$.getJSON( '/javascripts/weekly.json', data => {
+  $weekly.append('<div class="item empty"/>');
+  data.forEach((item, idx) => {
+    let weekDay = weekly[Math.floor(idx/3)];
+    if (lastWeekDay !== weekDay) {
+      lastWeekDay = weekDay;
+      weekDay = `<p class="item-label"><span class="item-label-inner">${weekDay}</span></p>`;
+    } else {
+      weekDay = '';
+    }
+    $weekly.append(templateCompile(weeklyMarkup, { week: weekDay, src: item.book_cover_url , title: item.title, author: item.creators.map(creator => creator.display_name).join(', ')}));
+  });
+  $weekly.append('<div class="item empty"/>');
+});
+
+$.getJSON( '/javascripts/trending.json', data => {
   const first = data.slice(0, 5);
   const second = data.slice(5, 10);
   const $first = $trending.find('.js-first');
