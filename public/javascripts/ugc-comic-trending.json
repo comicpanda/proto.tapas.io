@@ -1,0 +1,590 @@
+[
+        {
+            "id": 99113,
+            "title": "Summertime In Jade",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 43300,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/37/ea857b81-1a1f-4b37-9a8c-abab91f0b2c8.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 3015135,
+                    "uname": "sovaanissa",
+                    "display_name": "chiiru",
+                    "profile_pic_url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#a5a99b",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99109,
+            "title": "Yokai Tales",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 54969,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/24/e95711d5-2cd9-4e29-8174-fddd6f3a049a.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1053078,
+                    "uname": "me53",
+                    "display_name": "mirakuru",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/45/cfdd4198-75a9-4702-a1df-41d2aeac8865.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#cfcfcf",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99104,
+            "title": "SGirl and XMan",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 18195,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/26/c2767542-8021-4fb0-80ee-d2b8522933bb.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 349413,
+                    "uname": "sgirlandxman",
+                    "display_name": "Sgirl and Xman",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/10/4afa8cab-a126-4316-a749-f01c785980fd.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#bd7277",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99099,
+            "title": "The Manager",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 29755,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/62/288fcbb2-c669-4016-8228-7322735bc46a.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2978608,
+                    "uname": "moonsandy45",
+                    "display_name": "moonsandy45",
+                    "profile_pic_url": "https://lh3.googleusercontent.com/-VJgKgPb4GiY/AAAAAAAAAAI/AAAAAAAAArg/DlC0mxf2H_c/photo.jpg?sz=50",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#e7efe1",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99025,
+            "title": "The Art of Art Club",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 133067,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/1d/a775e98d-df36-4f45-ac62-63b1b07f57f9.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2451392,
+                    "uname": "HanasCupOfTea",
+                    "display_name": "Hanas Cup Of Tea",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/7f/d9c28bc8-43b8-4b4b-b9cf-88e8ea1ca6ea.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ddb19f",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99034,
+            "title": "in my room",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 15312,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/d9/4dd9be47-7961-4478-804e-1ca592e2a2c2.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2512318,
+                    "uname": "shishish12",
+                    "display_name": "shishish12",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/d7/472858cf-e1a8-4d81-aac4-758623918610.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#050505",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99029,
+            "title": "Monsters",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 27203,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/09/8ec42926-9962-4fc5-a280-220272d5bfb5.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1736608,
+                    "uname": "ninastss",
+                    "display_name": "ninaflix",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/3d/336fca99-ff4c-4dd5-a2ce-65c5dd9b1d54.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ebeaf1",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 99010,
+            "title": "Y Intercept You?",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 35349,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/ab/7cbe457f-e2df-4287-9bd8-fe1b02903b51.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2817895,
+                    "uname": "bobabyulcom",
+                    "display_name": "BobaByul",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/32/fdd2e485-530c-4e24-9c4e-140e6f091e07.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#80646f",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98920,
+            "title": "The High School Failures of a Cyclops ",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 71370,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/79/08de6b21-2c2e-4d38-bfbf-a18d32efc431.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2891170,
+                    "uname": "madisondg2005",
+                    "display_name": "Pastella",
+                    "profile_pic_url": "https://lh3.googleusercontent.com/-znZKThZbbHg/AAAAAAAAAAI/AAAAAAAAATY/EhW5rjU-00w/photo.jpg?sz=50",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#c392d5",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98979,
+            "title": "Sonrisa de plástico.",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 36524,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/d8/359611b3-8467-48e0-bf16-156019f9051a.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 938865,
+                    "uname": "jecsonkjsr",
+                    "display_name": "jecsonkjsr",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/52/4ebcb006-9b60-4a61-b14a-cc85679cf204.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#f9e2e6",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98958,
+            "title": "Your Friendly French Neighbour",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 131362,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/ef/625f5320-f299-45cb-81f7-b35b4a33ac6e.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2325395,
+                    "uname": "Yumenofude",
+                    "display_name": "Yumenofude",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/51/0fad21fb-8bb1-4fad-bbfa-93acc0c4c917.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#e1d9d2",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98947,
+            "title": "Nooki Tales Concept",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 37100,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/03/4978ea90-4b73-4d34-bc8b-36f3fac6de50.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 3004613,
+                    "uname": "timsterrifictales",
+                    "display_name": "TimsTerrificTales",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/76/380de52e-661c-4e3a-9d61-e26052d15601.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#0f151d",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98953,
+            "title": "Cardiac Arrest",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 23603,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/83/cab0bdfb-4d64-45e8-b1b7-647b060fb7ce.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 474811,
+                    "uname": "dessertxrose",
+                    "display_name": "Mimaimo",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/defaultuser.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#a45c53",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 97968,
+            "title": "Madigan's Guide to Acting Human",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 18432,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/b4/be20b273-d150-4732-95fe-7f9509e57768.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2973513,
+                    "uname": "moontownfilm",
+                    "display_name": "Og",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/0b/19314308-2a91-4535-977d-21734a30d98b.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#0b0c11",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 89926,
+            "title": "In Your Head",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 35358,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/bd/bdc73c88-b906-40c4-818f-fb6b058b5051.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2728017,
+                    "uname": "euanswalker2002",
+                    "display_name": "Thorn Roses",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/defaultuser.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#3a3a3a",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98937,
+            "title": "GEKKEI",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 105823,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/88/77eed76c-69f9-4374-91eb-08905026b7a1.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1271847,
+                    "uname": "mlleocatopus",
+                    "display_name": "MlleOcatopus",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/38/6f0f6e49-ee16-4e10-aae2-de5c0e28fc0e.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#a17d7b",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98929,
+            "title": "Propelar's World",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 36581,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/44/6c881c36-d524-4c8b-89fd-4f61c1525802.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2703036,
+                    "uname": "Propelar",
+                    "display_name": "Propelar",
+                    "profile_pic_url": "https://lh5.googleusercontent.com/-Kl8Fd3fbYzg/AAAAAAAAAAI/AAAAAAAAA6c/XWn9aWF5x1s/photo.jpg?sz=50",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#3e7ba6",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98921,
+            "title": "reality bites",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 36563,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/26/4ce286d4-606d-4f41-ad26-46d4dbca56b4.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1840026,
+                    "uname": "tirtho",
+                    "display_name": "Tirtho",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/84/358ca525-86a5-442c-9e78-f3a616253b5d.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#161616",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98919,
+            "title": "Little Lady and the Misadventures",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 32288,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/b6/83962f97-7bbf-4916-8da2-8ca6a6297f92.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2800806,
+                    "uname": "godsentcomics",
+                    "display_name": "Godsent Comics",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/da/5dc92d22-fd07-422c-98b8-636bf823c862.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ddcae2",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98229,
+            "title": "Minami Comics",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 14414,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/9e/c77dd2b5-7db7-432a-8333-d0d3a21fe972.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 2988661,
+                    "uname": "minamicomics",
+                    "display_name": "Kitty Ace",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/b9/ceaa089b-1373-45bc-9f85-89c9e681f32f.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#292929",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 98903,
+            "title": "Red Emotions",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 19322,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/b8/b2959314-755f-4ff5-bc77-f08ae3d32cf3.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 160590,
+                    "uname": "benjaminmichaelbent",
+                    "display_name": "GB Ben",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/d5/770dccd8-6c78-483d-b5b1-ab01d4aa4b98.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#d30a0a",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        }
+    ]

@@ -27,11 +27,51 @@ img {
     align-items: center;
     justify-content: center;
     font-weight: 500; }
+  .g-header.comic {
+    background-color: #F6B606; }
+    .g-header.comic .bar {
+      border: 2px solid #5C4712;
+      background-color: #5C4712; }
+      .g-header.comic .bar a {
+        color: #F8BA0D; }
+      .g-header.comic .bar .label.activate {
+        background-color: #F6B606; }
+  .g-header.novel {
+    background-color: #26b6b6; }
+    .g-header.novel .bar {
+      border: 2px solid #144550;
+      background-color: #144550; }
+      .g-header.novel .bar a {
+        color: #2FB4B3; }
+      .g-header.novel .bar .label.activate {
+        background-color: #26b6b6; }
+  .g-header.sub {
+    top: 50px; }
+  .g-header .segment {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0; }
+    .g-header .segment .bar {
+      border-radius: 20px;
+      width: 70%;
+      display: flex;
+      font-weight: 500; }
+      .g-header .segment .bar .label {
+        width: 50%; }
+        .g-header .segment .bar .label.activate {
+          border-radius: 20px; }
+          .g-header .segment .bar .label.activate a {
+            color: white; }
 
 .content {
   margin: 50px 0;
   z-index: 10;
   position: relative; }
+  .content.has-sub {
+    margin-top: 100px; }
 
 .tabbar {
   display: flex;
@@ -65,6 +105,8 @@ img {
 
 .section {
   background-color: #F2F2F2; }
+  .section.no-bg {
+    background-color: white; }
   .section .s-header {
     font-weight: 700;
     margin-bottom: 0;
@@ -323,5 +365,41 @@ img {
   border-bottom: 1px solid #e6ecf0;
   display: flex;
   justify-content: space-between; }
+
+.um .viewport {
+  overflow-x: auto;
+  font-size: 0; }
+
+.um .items {
+  padding: 0;
+  font-size: 14px;
+  display: inline-flex; }
+  .um .items .item {
+    padding-left: 16px;
+    display: flex;
+    flex-shrink: 0;
+    width: 116px; }
+    .um .items .item.empty {
+      width: 0; }
+    .um .items .item .wrap {
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      width: 100%; }
+      .um .items .item .wrap .sub-title {
+        font-weight: 500;
+        font-size: 12px;
+        color: #868696;
+        margin-bottom: 0; }
+      .um .items .item .wrap .title {
+        margin-top: 10px;
+        font-size: 12px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        margin-bottom: 0; }
+      .um .items .item .wrap .author {
+        margin-bottom: 0;
+        color: #868696; }
 
 /*# sourceMappingURL=style.css.map */

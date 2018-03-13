@@ -9,9 +9,17 @@ html
     link(rel='stylesheet', href='/stylesheets/style.css')
 
   body
-    header.g-header
-      span.screen-name=menu
-    main.content
+    header.g-header(class=headerCss||'')
+      span.screen-name=(sub || menu)
+    if (headerCss)
+      header.g-header.sub(class=headerCss||'')
+        p.segment
+          span.bar
+            span.label(class=headerCss === 'comic' ? 'activate' : '')
+              a(href='/apps/comic-home') Comics
+            span.label(class=headerCss === 'novel' ? 'activate' : '')
+              a(href='/apps/novel-home') Novels
+    main.content(class=sub?'has-sub':'')
       block content
 
     footer.tabbar
@@ -27,4 +35,5 @@ html
     script(src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous")
     script(src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous")
     script(src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous")
+    script(src='/javascripts/common.js')
     block scripts

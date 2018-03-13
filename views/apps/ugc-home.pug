@@ -1,0 +1,80 @@
+extends app-layout
+block scripts
+  script(src='/javascripts/ugc-home.js')
+
+block content
+  .section.no-bg
+    .banner
+      img(src=`/images/banner/ugc-${type}.jpg`)
+    h1.s-header Popular
+    .um
+      .viewport
+        .items.js-popular
+    h1.s-header New & Noteworthy
+    .um
+      .viewport
+        .items.js-new-noteworthy
+    h1.s-header Trending
+    .um
+      .viewport
+        .items.js-trending
+    p Note: Other itmes can be here (such as Big banner, small banner, other collections or whatever home screen has if we need.)
+    h1.s-header.mt-3 Genres (option.1)
+    .m.m6
+      .items
+        .item
+          .tag #action
+        .item
+          .tag #comedy
+        .item
+          .tag #drama
+        .item
+          .tag #fantasy
+        .item
+          .tag #gaming
+        .item
+          .tag #horror
+        .item
+          .tag #mystery
+        .item
+          .tag #romance
+        .item
+          .tag #science fiction
+        .item
+          .tag #slice of life
+        .item
+          .tag #THOMAS
+
+    h1.s-header Genres (option.2)
+    .m.m7
+      .items
+        .item
+          .name Action
+          .arrow &gt;
+        .item
+          .name Comedy
+          .arrow &gt;
+        .item
+          .name Drama
+          .arrow &gt;
+        .item
+          .name Fantasy
+          .arrow &gt;
+        .item
+          .name Gaming
+          .arrow &gt;
+        .item
+          .name Horror
+          .arrow &gt;
+        .item
+          .name Mystery
+          .arrow &gt;
+        .item
+          .name Romance
+          .arrow &gt;
+        .item
+          .name Science Fiction
+          .arrow &gt;
+        .item
+          .name Slice of Life
+          .arrow &gt;

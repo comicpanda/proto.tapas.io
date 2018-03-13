@@ -1,0 +1,534 @@
+[
+        {
+            "id": 53629,
+            "title": "Gender Slices",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 15293,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/df/aecc50b8-ca7d-4004-a3b8-ea32e8434a31.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1370336,
+                    "uname": "TopazComics",
+                    "display_name": "TopazComics",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/f9/ac5d75b0-3ee8-4d0c-9309-911cb8d9ff6a.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#d9d9d9",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 20650,
+            "title": "Magical Girl Ganguro and Neet",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 135952,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/32/31/a6/74/4125d36d7d5c41099f536b19f4ce28cb.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 563054,
+                    "uname": "tokimekiwaku",
+                    "display_name": "tokimekiwaku",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/22/d977e50c-6015-47cb-b8e8-243a0fc578c5.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ffffff",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 1587,
+            "title": "MaryDeath",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 26263,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/91/99/27/86/68163758291348dc9eb626b2f6907cf6.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 32087,
+                    "uname": "MrMAT",
+                    "display_name": "MAT",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/4d/95/4a/f9/057586d83c0348569337824706830b2d.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ffffff",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 26135,
+            "title": "Yangster",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 130722,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/7b/e6/a8/a7/6ee7bc9bbc044d2e95ba05852e90cb35.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 488606,
+                    "uname": "Coolyoku",
+                    "display_name": "Coolyoku",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/12/41c30ac5-aa18-482d-ad75-ba8dbe376203.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ffffff",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 35549,
+            "title": "Venom Doodles",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 58746,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/67/5da8f6a6-83a1-4bdd-b4b3-d4223169221d.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 809983,
+                    "uname": "cloverseer",
+                    "display_name": "Caster",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/8f/08daa06d-ac45-4f50-bb85-349be0de99d0.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ffffff",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 92567,
+            "title": "Accidentally Awkward",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 48850,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/ed/3b5f7bca-6bba-45ea-b308-62d21280be94.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 414170,
+                    "uname": "Gelesas",
+                    "display_name": "Gelesas",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/86/f72e6e3c-266e-4352-a082-08e100868479.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#0f0e0e",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 19102,
+            "title": "Sabers",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 97438,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/36/496d423f-f01e-452a-af77-55325e272446.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 379104,
+                    "uname": "Mitarashi",
+                    "display_name": "Mitarashi",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/0b/3e9772fd-1b95-4c6d-a11e-9b65b85140ae.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#6ecbd2",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 52504,
+            "title": "Comics Cats Cocoa",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 86268,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/f6/66d49a21-b1a3-48d2-8825-57b6c7231333.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1342338,
+                    "uname": "artbymoga",
+                    "display_name": "Artbymoga",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/de/94d3e16e-154e-448d-81c8-e850b06a7667.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ddcfdd",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 46217,
+            "title": "Weird Sisters",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 157673,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/16/6a226e43-b1f9-4426-8de6-242ac526bc98.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 815357,
+                    "uname": "nat-roze",
+                    "display_name": "Nat Roze",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/cf/7a4e6ffb-ed97-44af-8496-eaa99a93710e.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#13147e",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 89883,
+            "title": "Random things??",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 58482,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/b1/de16d56c-a369-4d99-ab16-788169c825e0.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 749204,
+                    "uname": "jxde",
+                    "display_name": "jade",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/ff/51599420-2d61-49f4-9e87-6c0f8757afd5.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ebeaef",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 54900,
+            "title": "Seelpeel",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 69778,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/35/16f15585-1313-4052-b28c-3bec1c6dbab0.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1408462,
+                    "uname": "seelkaiser",
+                    "display_name": "Seel",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/34/fc3bef68-a26f-43a8-b36e-05119f278109.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#d0e868",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 97635,
+            "title": "Frolicking Freelancery",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 54675,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/a2/0f56597a-7d59-4b97-9c17-df3009169c34.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 1470385,
+                    "uname": "hannah1611",
+                    "display_name": "Spikings",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/e7/ecfb6fcf-3e3b-4765-8aa6-be047c8c818e.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#b2dae2",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 33349,
+            "title": "Doodle Doots",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 66450,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/0c/3375093c-5bfc-48bb-a0f9-5a0064dd0c96.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 316029,
+                    "uname": "anxiousmonster",
+                    "display_name": "Anxious Monster",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/f6/bb65741b-1e0d-4e69-8830-9a2e71b0ea0d.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#f9cfbd",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 44336,
+            "title": "your local sad boy",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 65920,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/61/95f7dc44-ad94-49c5-ad52-c63d099b86a0.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 539821,
+                    "uname": "crownfiish",
+                    "display_name": "Nen",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/6b/0b205c8a-5ce1-4cf9-87a7-dca328c35114.png",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#1d1f1d",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 28076,
+            "title": "A Cryptid's Life",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 55195,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/2e/bd6b7fd0-b8fd-49b5-b973-c9abbe0b8fa3.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 661732,
+                    "uname": "SakuraBellStudios",
+                    "display_name": "SakuraBell",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/21/0a0342c1-1a21-4df8-ae42-369e4ce24239.jpg",
+                    "joined_creator_tip": false
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#372727",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 4629,
+            "title": "Monster Pop!",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 41700,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/65/b5fa0863-e486-49e1-8cf8-9e2c1de6b287.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 158911,
+                    "uname": "mayaGkern",
+                    "display_name": "Maya Kern",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/23/004ad512-2c63-4562-8794-c84b54e5b308.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#a1155a",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 6107,
+            "title": "4-Panel Life",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 86581,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/2e/5d06fb0e-c906-424d-8dd0-3cc0684ec7a4.png"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 228295,
+                    "uname": "jenjenrose",
+                    "display_name": "Jen-Jen Rose",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/fb/e4/7e/fd/9359fd9b587d4f1eb29fe0bf9e6382a2.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#25262c",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 12253,
+            "title": "Demon House",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 168371,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/3b/87/51/3e/97b1a3cb56134267979f2e2fccacf8d9.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 401251,
+                    "uname": "dashalutris",
+                    "display_name": "Joanne Kwan",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/cc/46686fb0-a76a-481c-bad6-efd4092eb07d.png",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#ffffff",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        },
+        {
+            "id": 41936,
+            "title": "Green & Gold",
+            "type": "COMMUNITY",
+            "sale_type": "FREE",
+            "thumb": {
+                "width": 300,
+                "height": 300,
+                "file_size": 44715,
+                "file_url": "https://d30womf5coomej.cloudfront.net/sa/74/ddcfff39-9de3-40cf-bdf0-fb28df2e2148.jpg"
+            },
+            "book_cover_url": null,
+            "creators": [
+                {
+                    "id": 987973,
+                    "uname": "lisabrenner",
+                    "display_name": "lisadorina",
+                    "profile_pic_url": "https://d30womf5coomej.cloudfront.net/ua/05/460db01d-a46f-4355-986b-eae4dcd6e2fb.jpg",
+                    "joined_creator_tip": true
+                }
+            ],
+            "age_rating": null,
+            "rgb_hex": "#dfd3aa",
+            "restricted": false,
+            "on_sale": false,
+            "discount_rate": 0,
+            "sale_end_date": null
+        }
+    ]

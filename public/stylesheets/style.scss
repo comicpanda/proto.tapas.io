@@ -28,12 +28,67 @@ img {
     justify-content: center;
     font-weight: 500;
   }
+  &.comic {
+    background-color: #F6B606;
+    .bar {
+      border: 2px solid #5C4712;
+      background-color: #5C4712;
+      a {
+        color: #F8BA0D;
+      }
+      .label.activate {
+        background-color: #F6B606;
+      }
+    }
+  }
+  &.novel {
+    background-color: #26b6b6;
+    .bar {
+      border: 2px solid #144550;
+      background-color: #144550;
+      a {
+        color: #2FB4B3;
+      }
+      .label.activate {
+        background-color: #26b6b6;
+      }
+    }
+  }
+  &.sub {
+    top: 50px;
+  }
+  .segment {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    .bar {
+      border-radius: 20px;
+      width: 70%;
+      display: flex;
+      font-weight: 500;
+      .label {
+        width: 50%;
+        &.activate {
+          a {
+            color: white;
+          }
+          border-radius: 20px;
+        }
+      }
+    }
+  }
 }
 
 .content {
   margin: 50px 0;
   z-index: 10;
   position: relative;
+  &.has-sub {
+    margin-top: 100px;
+  }
 }
 
 .tabbar {
@@ -71,6 +126,9 @@ img {
 }
 .section {
   background-color: #F2F2F2;
+  &.no-bg {
+    background-color: white;
+  }
   .s-header {
     font-weight: 700;
     margin-bottom: 0;
@@ -399,5 +457,50 @@ img {
     border-bottom: 1px solid #e6ecf0;
     display: flex;
     justify-content: space-between;
+  }
+}
+
+.um {
+  .viewport {
+    overflow-x: auto;
+    font-size: 0;
+  }
+  .items {
+    padding: 0;
+    font-size: 14px;
+    display: inline-flex;
+    .item {
+      padding-left: 16px;
+      display: flex;
+      flex-shrink: 0;
+      width: 116px;
+      &.empty {
+        width: 0;
+      }
+      .wrap {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        .sub-title {
+          font-weight: 500;
+          font-size: 12px;
+          color: #868696;
+          margin-bottom: 0;
+        }
+        .title {
+          margin-top: 10px;
+          font-size: 12px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          margin-bottom: 0;
+        }
+        .author {
+          margin-bottom: 0;
+          color: #868696;
+        }
+      }
+    }
   }
 }

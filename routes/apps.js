@@ -18,4 +18,22 @@ router.get('/inbox', (req, res, next) => {
   res.render('apps/inbox', {menu: 'Inbox'});
 });
 
+router.get('/comic-home', (req, res, next) => {
+  res.render('apps/ugc-home', {
+    menu: 'Discover',
+    sub: 'Community',
+    headerCss: 'comic',
+    type: 'comic'
+  });
+});
+
+router.get('/novel-home', (req, res, next) => {
+  res.render('apps/ugc-home', {
+    menu: 'Discover',
+    sub: 'Community',
+    headerCss: 'novel',
+    type: 'novel'
+  });
+});
+
 module.exports = router;
