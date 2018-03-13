@@ -42,4 +42,8 @@ router.get('/collections', (req, res, next) => {
   res.render('apps/collections', {menu: 'Discover', sub: 'Collections'});
 });
 
+router.get('/creators', (req, res, next) => {
+  res.render('apps/creators', {menu: 'Discover', sub: 'Creators'});
+});
+
 module.exports = router;

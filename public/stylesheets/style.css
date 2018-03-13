@@ -411,4 +411,63 @@ img {
         margin-bottom: 0;
         color: #868696; }
 
+.hero {
+  height: 150px;
+  background-color: #f2f2f2;
+  margin-bottom: 10px; }
+
+.creators .creator {
+  margin: 0 10px;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 15px 0; }
+  .creators .creator .img-wrap {
+    position: relative; }
+    .creators .creator .img-wrap .badge {
+      font-weight: 500;
+      font-size: 10px;
+      position: absolute;
+      left: 50%;
+      bottom: -5px;
+      transform: translateX(-50%); }
+    .creators .creator .img-wrap img {
+      border-radius: 50%;
+      height: 80px;
+      width: 80px;
+      border: 1px solid #f2f2f2; }
+  .creators .creator .media-body {
+    margin-left: 15px;
+    position: relative; }
+    .creators .creator .media-body .badge {
+      right: 0;
+      position: absolute;
+      top: -15px;
+      border-radius: 0 0 5px 5px;
+      color: #FFFFFF; }
+  .creators .creator .name {
+    margin-bottom: 5px; }
+  .creators .creator .quote {
+    font-size: 12px;
+    color: #868696;
+    margin-bottom: 3px; }
+  .creators .creator .series {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: baseline; }
+    .creators .creator .series .title {
+      margin-left: 5px; }
+      .creators .creator .series .title .small {
+        color: var(--secondary); }
+  .creators .creator .stats {
+    margin-bottom: 0;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    line-height: 1; }
+    .creators .creator .stats .ico {
+      margin-right: 3px; }
+    .creators .creator .stats .num {
+      font-size: 12px;
+      margin-right: 8px;
+      color: #868696; }
+
 /*# sourceMappingURL=style.css.map */
