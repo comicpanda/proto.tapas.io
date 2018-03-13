@@ -23,7 +23,8 @@ router.get('/comic-home', (req, res, next) => {
     menu: 'Discover',
     sub: 'Community',
     headerCss: 'comic',
-    type: 'comic'
+    type: 'comic',
+    hasSegment: true,
   });
 });
 
@@ -32,8 +33,13 @@ router.get('/novel-home', (req, res, next) => {
     menu: 'Discover',
     sub: 'Community',
     headerCss: 'novel',
-    type: 'novel'
+    type: 'novel',
+    hasSegment: true,
   });
+});
+
+router.get('/collections', (req, res, next) => {
+  res.render('apps/collections', {menu: 'Discover', sub: 'Collections'});
 });
 
 module.exports = router;

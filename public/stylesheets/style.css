@@ -170,9 +170,6 @@ img {
       color: #464656;
       font-weight: bold; }
 
-.m2 .banner img {
-  max-width: 100%; }
-
 .m3 .viewport {
   overflow-x: auto;
   font-size: 0; }
@@ -365,6 +362,18 @@ img {
   border-bottom: 1px solid #e6ecf0;
   display: flex;
   justify-content: space-between; }
+
+.m8 .banner .thumbs img {
+  width: 33.333%; }
+
+.m8 .title {
+  font-size: 20px; }
+
+.m8 .desc {
+  font-size: 14px;
+  color: #262636;
+  line-height: 20px;
+  margin-bottom: 0; }
 
 .um .viewport {
   overflow-x: auto;

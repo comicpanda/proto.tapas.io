@@ -210,13 +210,6 @@ img {
     }
   }
 }
-.m2 {
-  .banner {
-    img {
-      max-width: 100%;
-    }
-  }
-}
 .m3 {
   .viewport {
     overflow-x: auto;
@@ -457,6 +450,24 @@ img {
     border-bottom: 1px solid #e6ecf0;
     display: flex;
     justify-content: space-between;
+  }
+}
+.m8 {
+  .banner {
+    .thumbs {
+      img {
+        width: 33.333%;
+      }
+    }
+  }
+  .title {
+    font-size: 20px;
+  }
+  .desc {
+    font-size: 14px;
+    color: #262636;
+    line-height: 20px;
+    margin-bottom: 0;
   }
 }
 

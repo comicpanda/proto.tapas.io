@@ -19,7 +19,7 @@ html
               a(href='/apps/comic-home') Comics
             span.label(class=headerCss === 'novel' ? 'activate' : '')
               a(href='/apps/novel-home') Novels
-    main.content(class=sub?'has-sub':'')
+    main.content(class=hasSegment?'has-sub':'')
       block content
 
     footer.tabbar
