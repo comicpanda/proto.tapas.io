@@ -25,6 +25,7 @@ router.get('/comic-home', (req, res, next) => {
     headerCss: 'comic',
     type: 'comic',
     hasSegment: true,
+    backLink: '/apps/discover'
   });
 });
 
@@ -35,15 +36,16 @@ router.get('/novel-home', (req, res, next) => {
     headerCss: 'novel',
     type: 'novel',
     hasSegment: true,
+    backLink: '/apps/discover',
   });
 });
 
 router.get('/collections', (req, res, next) => {
-  res.render('apps/collections', {menu: 'Discover', sub: 'Collections'});
+  res.render('apps/collections', {menu: 'Discover', sub: 'Collections', backLink: '/apps/discover'});
 });
 
 router.get('/creators', (req, res, next) => {
-  res.render('apps/creators', {menu: 'Discover', sub: 'Creators'});
+  res.render('apps/creators', {menu: 'Discover', sub: 'Creators', backLink: '/apps/discover'});
 });
 
 module.exports = router;

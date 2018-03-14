@@ -10,7 +10,9 @@ html
 
   body
     header.g-header(class=headerCss||'')
-      span.screen-name=(sub || menu)
+      if (backLink)
+        a.back-button(href=backLink) <
+      span.screen-name(class=sub?'sub': '')=(sub || menu)
     if (headerCss)
       header.g-header.sub(class=headerCss||'')
         p.segment

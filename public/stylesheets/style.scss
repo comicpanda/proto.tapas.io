@@ -8,6 +8,7 @@ img {
 .g-header {
   display: flex;
   position: fixed;
+  align-items: center;
   top: 0;
   left: 0;
   right: 0;
@@ -26,6 +27,15 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: 500;
+    &.sub {
+      padding-left: -10px;
+    }
+  }
+  .back-button {
+    font-size: 24px;
+    padding-left: 10px;
+    color: white;
     font-weight: 500;
   }
   &.comic {
